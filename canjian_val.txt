@@ -1,0 +1,338 @@
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2.jpg 1018,626,1521,1288,0 1542,820,2083,1497,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/552.jpg 774,920,1524,1441,0 936,23,1786,697,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2820.jpg 1074,940,1832,1552,0 1078,23,1905,498,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1142.jpg 1024,79,1430,853,0 442,744,1180,1532,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/319.jpg 268,773,877,1365,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1734.jpg 916,1294,1425,2048,0 1418,952,2198,1438,1 974,225,1729,809,1 96,474,887,1332,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2246.jpg 974,916,1552,1536,0 825,212,1727,678,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/28.jpg 654,682,1145,1320,0 1274,641,1709,1288,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/310.jpg 1277,926,1962,1441,0 1027,1535,1768,2048,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/798.jpg 512,565,1271,1397,1 1268,456,1998,1003,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3021.jpg 689,412,1354,998,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/768.jpg 1415,615,2065,1212,0 536,515,1148,1373,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/281.jpg 1371,662,2009,1197,0 530,765,1221,1600,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/87.jpg 651,709,1148,1370,0 1380,738,1842,1544,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2388.jpg 409,872,1043,1574,0 1281,636,2009,1496,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2543.jpg 669,580,1334,1349,1 1525,485,1963,1340,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3551.jpg 345,760,1054,1465,0 1183,744,1681,1440,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1524.jpg 1136,750,1907,1382,0 248,200,1001,685,0 259,809,1074,1259,0 1142,85,1842,535,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2145.jpg 554,294,1327,950,0 1324,517,1886,1138,0 2009,500,2412,1294,0 595,1094,1057,1767,0 1204,1335,2089,1926,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/763.jpg 1559,644,2130,1262,0 536,535,1157,1388,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3043.jpg 629,807,1301,1378,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1997.jpg 1165,1112,1751,1759,0 712,479,1398,1017,0 365,1229,1174,1673,0 59,529,574,1270,0 1465,382,2062,1159,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1928.jpg 878,374,1676,809,1 72,405,869,887,0 892,958,1736,1418,0 83,918,841,1396,0 892,1427,1745,1934,0 16,1516,723,1918,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/744.jpg 833,3,1498,697,0 904,767,1501,1665,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1850.jpg 105,1132,736,1874,1 61,476,763,1020,0 903,252,1532,816,0 914,805,1692,1378,0 881,1443,1749,1909,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2084.jpg 223,498,1047,1072,1 1221,336,2103,818,0 1809,767,2416,1527,0 1102,972,1744,1600,0 567,1087,1061,1792,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/853.jpg 530,256,1165,1067,1 1315,485,1927,1065,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1147.jpg 1021,56,1630,738,0 445,544,954,1265,1 1318,820,2036,1379,1 786,1444,1648,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2091.jpg 457,362,1001,932,0 1095,465,1765,1023,0 1868,535,2427,1256,0 1265,1247,2101,1685,0 492,1126,1121,1823,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2123.jpg 362,1250,1212,1647,0 54,541,595,1267,0 715,479,1368,1038,0 1642,417,2089,1076,0 1242,1103,2021,1809,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1308.jpg 477,753,915,1582,0 1057,520,1830,1029,1 1809,520,2354,1282,1 1009,1206,1639,1894,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/20.jpg 648,679,1148,1317,0 1301,832,1868,1438,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1238.jpg 630,367,1262,1088,0 1198,947,1609,1738,0 1142,44,1571,697,1 1712,600,2233,1303,1 345,997,1048,1585,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1220.jpg 1301,1185,1912,1832,0 874,1200,1277,2020,0 733,338,1454,803,1 1468,682,2115,1176,1 301,862,904,1541,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3557.jpg 516,687,1229,1158,0 1249,718,1658,1437,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/22.jpg 936,438,1351,1267,0 1680,732,2221,1447,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1949.jpg 1218,906,1768,1538,0 795,917,1395,1682,0 965,70,1448,862,0 1557,135,2068,770,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2565.jpg 638,734,1292,1523,1 1423,805,2121,1469,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1829.jpg 774,673,1548,1247,0 965,1229,1536,1794,0 730,126,1571,600,0 1748,76,2462,659,0 1736,897,2259,1679,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2578.jpg 1034,207,1643,718,0 918,980,1749,1623,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1680.jpg 638,936,1338,1520,1 1421,947,2267,1705,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3311.jpg 1161,494,1943,1147,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/460.jpg 1392,553,1771,1344,0 304,644,992,1297,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/308.jpg 707,1,1483,526,0 512,617,1186,1094,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/764.jpg 862,144,1451,685,0 707,1120,1586,1703,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1608.jpg 763,618,1483,1298,0 1536,716,2261,1583,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2666.jpg 836,1078,1556,1736,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1694.jpg 558,1078,1356,1552,1 1412,720,2212,1576,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2201.jpg 1092,297,1912,947,0 589,517,1151,1141,0 21,515,501,1317,0 1183,1056,1995,1838,1 301,1335,1121,1923,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/8.jpg 648,885,1259,1494,0 1539,659,2224,1288,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/305.jpg 1239,629,1924,1188,0 995,1535,1757,2048,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2810.jpg 756,1463,1509,1896,0 774,525,1361,1180,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/477.jpg 1015,953,1768,1435,0 1257,359,2009,809,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3708.jpg 778,658,1187,1314,0 1474,609,2043,1312,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/128.jpg 336,253,804,915,0 918,691,1477,1309,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1006.jpg 1342,403,2177,1203,1 457,879,1198,1385,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2687.jpg 492,403,1303,1220,1 1576,612,2156,1243,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1573.jpg 733,135,1557,594,0 1765,106,2457,676,0 783,694,1551,1235,0 948,1223,1554,1823,0 1624,1047,2386,1512,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2561.jpg 658,520,1285,1327,1 1409,580,2109,1220,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2053.jpg 359,376,1204,788,0 51,770,568,1517,0 1548,1106,2071,1762,0 698,1015,1351,1585,0 1383,432,2059,850,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/362.jpg 1477,576,2059,1235,0 774,667,1357,1315,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/394.jpg 1171,591,1671,1223,0 283,594,980,1300,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2533.jpg 547,672,1109,1212,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/387.jpg 1624,644,2254,1397,0 786,573,1292,1215,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2730.jpg 1005,1085,1705,1763,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1572.jpg 462,744,1024,1335,0 1018,585,1568,1359,0 1662,553,2092,1356,0 1586,1556,2154,2048,0 742,1409,1180,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/73.jpg 1198,700,1759,1356,0 1801,906,2233,1662,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3221.jpg 929,785,1425,1447,0 1849,707,2334,1505,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1476.jpg 868,1050,1521,1762,0 233,1015,862,1526,0 1039,70,1486,873,0 371,117,836,906,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/433.jpg 554,482,1074,1197,0 1251,485,1648,1315,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2499.jpg 749,754,1321,1554,1 1516,629,2141,1389,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3133.jpg 136,558,643,1305,1 998,496,1429,1209,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2459.jpg 589,612,1212,1527,1 1476,954,2052,1727,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1034.jpg 833,156,1333,912,1 627,1141,1433,1982,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1022.jpg 1136,912,1801,1626,1 1062,115,1851,906,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3415.jpg 736,709,1381,1340,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1172.jpg 1462,715,1989,1415,0 1095,97,1686,773,1 445,541,951,1259,1 718,1409,1533,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/493.jpg 1030,453,1518,1150,0 577,229,1009,1000,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2813.jpg 714,412,1305,1149,0 1727,629,2163,1378,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1104.jpg 707,894,1509,1644,1 830,50,1262,794,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2090.jpg 498,209,1136,936,1 1072,994,1758,1587,0 454,1105,1014,1709,0 1205,360,2109,809,0 1872,767,2418,1512,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/399.jpg 1065,594,1739,1056,0 251,453,895,1079,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2252.jpg 983,923,1527,1543,0 689,125,1432,598,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2321.jpg 352,518,909,1216,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2957.jpg 1031,615,1725,1222,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1855.jpg 939,256,1536,832,0 771,812,1542,1373,0 712,1459,1554,1912,0 1695,491,2398,1026,0 1733,1220,2201,1894,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1494.jpg 1145,729,1895,1367,0 318,32,954,632,0 262,815,1086,1259,0 1189,6,1868,591,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1209.jpg 468,644,1251,1194,0 1107,3,1574,617,1 1471,788,2024,1512,1 765,1256,1359,1932,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1369.jpg 1048,1215,1715,1912,0 683,600,1351,1206,1 1557,647,2174,1320,1 921,12,1801,565,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3749.jpg 843,1016,1603,1489,0 1807,752,2452,1558,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3124.jpg 1052,436,1625,1127,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/817.jpg 1151,329,2027,965,1 1109,1288,1957,1865,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/145.jpg 962,726,1809,1165,0 824,1465,1521,2035,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1620.jpg 576,685,1183,1498,0 1352,727,2085,1589,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/597.jpg 907,1079,1671,1656,0 933,185,1783,923,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/373.jpg 977,1020,1565,1665,0 945,203,1686,773,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1585.jpg 948,259,1533,820,0 792,832,1542,1338,0 751,1447,1568,1891,0 1762,1394,2454,1944,0 1609,615,2427,1070,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/894.jpg 589,412,1195,1120,1 551,1215,1312,2032,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3450.jpg 112,629,798,1307,0 934,743,1501,1449,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/908.jpg 1221,412,1954,1109,1 198,350,1030,1085,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1466.jpg 830,1017,1512,1759,0 318,912,924,1465,0 1012,73,1515,853,0 283,94,821,803,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1931.jpg 748,629,1542,1053,0 736,153,1559,600,0 1751,141,2427,532,0 1633,670,2386,1129,0 1574,1179,2389,1641,0 807,1262,1574,1667,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2840.jpg 625,487,1361,1094,0 812,1120,1436,1585,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1299.jpg 1130,1297,1859,1750,0 745,467,1242,1223,1 1424,606,2109,1238,1 718,12,1495,450,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1365.jpg 345,535,1015,1188,0 936,94,1630,717,1 1036,920,1665,1588,1 1662,473,2348,1332,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2672.jpg 792,1227,1269,1992,0 567,280,1445,1080,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2224.jpg 969,1265,1709,1669,1 938,609,1545,1178,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/638.jpg 1604,759,2215,1417,0 727,659,1357,1538,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2239.jpg 718,700,1332,1265,1 1521,769,2078,1600,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2021.jpg 715,444,1377,1059,0 1530,347,2033,1041,0 51,535,571,1259,0 351,1206,1221,1694,0 1424,1165,1977,1882,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1429.jpg 889,1082,1362,1782,0 1289,517,1998,1329,1 354,538,962,1215,1 568,12,1304,409,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2663.jpg 1323,614,1958,1323,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2323.jpg 1574,812,2112,1507,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3736.jpg 427,714,945,1443,1 1154,732,1621,1440,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/147.jpg 1762,765,2348,1541,0 892,826,1495,1535,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/461.jpg 689,709,1051,1485,0 1471,747,2142,1394,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1007.jpg 1027,62,1833,903,1 871,1044,1374,1788,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2296.jpg 1412,814,1887,1554,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/926.jpg 468,465,1212,991,1 1421,373,2262,1091,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3620.jpg 496,687,1043,1494,1 1285,625,1912,1367,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/911.jpg 524,309,1277,850,1 1418,373,2251,1082,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/985.jpg 1289,812,1945,1332,1 280,717,1027,1532,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3644.jpg 507,683,1038,1489,1 1143,974,1805,1538,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2586.jpg 461,634,969,1336,0 1176,520,1807,1332,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/15.jpg 733,800,1118,1506,0 1415,841,1851,1603,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1455.jpg 939,273,1583,1026,0 1562,532,2109,1176,0 959,1173,1457,1985,0 1665,1241,2298,1917,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/758.jpg 1424,612,1889,1444,0 518,520,1154,1385,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/581.jpg 595,744,1142,1441,0 1371,473,2068,1297,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/107.jpg 659,720,1136,1379,0 1289,938,2068,1376,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1697.jpg 281,729,1061,1300,1 1407,723,2209,1567,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2717.jpg 1205,898,1756,1665,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/815.jpg 527,965,1162,1791,1 1465,909,2059,1756,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/976.jpg 427,776,1177,1347,1 1448,526,2198,1303,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3102.jpg 1034,729,1727,1283,0 989,12,1696,500,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3566.jpg 736,672,1418,1205,1 1503,734,2176,1274,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2946.jpg 1156,777,1897,1238,0 1177,11,1868,399,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/70.jpg 654,997,1327,1453,0 1768,917,2242,1647,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1148.jpg 242,626,965,1206,0 1042,226,1586,929,1 1645,641,2321,1447,1 730,1303,1477,1800,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2604.jpg 378,538,947,1263,0 1187,527,1812,1323,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1831.jpg 939,244,1524,820,0 768,817,1554,1373,0 739,1456,1562,1873,0 1680,485,2409,1009,0 1824,1144,2277,1923,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1602.jpg 1501,616,2358,1438,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1525.jpg 892,338,1521,1132,0 1012,1173,1451,1994,0 1580,1244,2033,1991,0 1662,406,2212,1117,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/213.jpg 868,335,1571,788,1 915,988,1418,1641,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1886.jpg 645,27,1198,760,1 56,492,781,1040,0 1043,700,1672,1405,0 109,1243,645,1894,0 908,1420,1726,1914,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2177.jpg 577,512,1151,1135,0 33,526,501,1291,0 1124,315,1915,941,0 265,1335,1095,1959,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/709.jpg 812,26,1533,691,0 815,817,1595,1635,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/369.jpg 1209,629,1786,1259,0 589,529,1180,1188,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1545.jpg 909,317,1474,1117,0 1001,1209,1442,1970,0 1571,1253,2051,1994,0 1615,467,2254,1141,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3549.jpg 781,127,1474,703,0 938,809,1578,1565,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1333.jpg 380,929,989,1476,0 1039,509,1804,1017,1 1812,515,2351,1303,1 1024,1300,1759,1865,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3170.jpg 1021,840,1527,1423,0 743,1634,1498,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/413.jpg 1012,885,1715,1329,0 1124,32,1851,491,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2706.jpg 125,643,832,1096,0 1174,392,1972,1229,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1314.jpg 1033,1332,1654,2044,0 715,6,1507,438,1 1421,609,2118,1229,1 727,447,1236,1188,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1824.jpg 1436,723,2001,1315,0 889,688,1454,1494,0 354,691,827,1520,0 315,9,868,462,0 924,3,1409,617,1 1468,6,1945,565,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/906.jpg 1427,359,2259,1079,1 536,429,1257,1094,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/278.jpg 704,12,1468,559,0 727,773,1515,1276,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1139.jpg 962,1059,1424,1815,0 1295,517,2009,1309,1 565,6,1295,409,1 386,470,1151,903,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1039.jpg 1165,217,1648,1009,1 624,1150,1448,1970,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1326.jpg 1548,879,1986,1588,0 645,532,1404,1012,1 109,509,659,1279,1 762,1273,1501,1862,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/354.jpg 1321,717,1871,1332,0 398,594,986,1229,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1553.jpg 1589,50,2039,794,0 968,70,1445,841,0 924,929,1527,1703,0 1624,906,2242,1585,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1733.jpg 109,505,887,1338,1 983,225,1736,785,1 1407,958,2214,1434,1 721,1367,1449,1812,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/37.jpg 918,770,1462,1562,0 1651,817,2198,1556,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2814.jpg 861,80,1636,516,0 1085,940,1845,1549,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3623.jpg 623,512,1334,1127,0 1401,543,1961,1376,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3241.jpg 521,565,1007,1418,1 1067,736,1658,1343,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/393.jpg 954,62,1662,770,0 1030,965,1665,1476,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/944.jpg 712,347,1183,1153,1 683,1238,1554,1979,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/312.jpg 1280,797,1927,1303,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3650.jpg 525,700,1047,1483,1 1272,734,1767,1552,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1615.jpg 605,712,1421,1316,0 1321,685,2085,1549,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2886.jpg 1245,1140,1958,1667,0 1181,483,1905,983,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1982.jpg 396,900,916,1669,1 1063,1000,1749,1554,0 696,307,1294,936,0 1292,352,2109,847,0 1869,776,2412,1532,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/177.jpg 1427,182,2018,806,0 677,435,1221,1241,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1504.jpg 254,215,989,667,0 265,823,1068,1270,0 1139,726,1895,1397,0 1077,135,1857,620,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/634.jpg 957,76,1477,776,0 877,765,1530,1659,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2636.jpg 905,1167,1605,1736,0 832,336,1652,972,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/642.jpg 759,1406,1498,2006,0 724,523,1630,1191,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1293.jpg 368,729,842,1529,0 1004,529,1786,1029,1 1804,517,2354,1273,1 957,1326,1683,1876,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2560.jpg 1061,507,1743,878,0 925,965,1738,1587,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/132.jpg 1309,609,1871,1206,0 657,717,1151,1367,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/730.jpg 1633,882,2359,1538,0 592,729,1474,1362,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2677.jpg 249,814,858,1520,0 1121,832,1956,1636,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3318.jpg 618,896,1492,1569,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1158.jpg 1068,44,1842,591,0 1577,662,2298,1426,1 254,626,1033,1082,1 739,1291,1477,1797,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1344.jpg 995,1338,1771,1870,0 692,612,1357,1223,1 1542,644,2171,1317,1 930,9,1804,573,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2171.jpg 1130,303,1921,932,0 580,523,1145,1147,0 48,500,489,1288,0 1421,1076,1851,1759,0 236,1323,1104,1976,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3184.jpg 941,585,1474,1360,0 1556,638,2314,1156,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/440.jpg 359,1306,954,1897,0 927,973,1557,1538,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/357.jpg 1465,565,2062,1220,0 454,750,1007,1426,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/351.jpg 1289,715,1871,1335,0 386,826,995,1465,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2194.jpg 1280,923,1954,1665,0 1080,370,1733,944,0 933,3,1754,273,0 339,82,895,923,1 430,1041,1204,1832,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/910.jpg 1183,1217,1924,1735,1 215,953,1012,1697,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1374.jpg 1374,1047,1827,1853,0 1515,685,2230,1262,1 642,673,1398,1126,1 927,12,1774,559,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/982.jpg 921,79,1774,820,1 936,1215,1495,1944,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/799.jpg 792,1000,1627,1750,1 654,244,1209,982,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/794.jpg 754,1044,1621,1797,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/504.jpg 812,570,1557,1029,0 807,1320,1621,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3336.jpg 1041,943,1816,1640,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/595.jpg 1280,720,1859,1465,0 398,717,1101,1573,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/401.jpg 1539,550,2054,1212,0 821,588,1392,1317,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2971.jpg 1079,899,1786,1515,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1440.jpg 574,897,1274,1270,0 957,244,1762,970,1 1845,956,2342,1685,1 1077,1270,1671,1926,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/42.jpg 942,950,1492,1523,0 1639,826,2201,1553,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1410.jpg 357,903,1083,1417,0 936,247,1757,962,1 1842,956,2365,1691,1 1080,1247,1686,1944,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1720.jpg 192,925,918,1567,1 1092,727,1894,1589,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3455.jpg 329,640,905,1296,0 927,580,1549,1307,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/766.jpg 407,609,1051,1212,0 1354,535,1907,1397,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1878.jpg 886,700,1427,1459,0 1409,723,2004,1312,0 342,673,815,1517,0 1233,1,1765,570,0 501,3,1124,506,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3594.jpg 81,505,745,1147,0 1003,563,1485,1254,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2395.jpg 407,447,1014,1194,0 1292,560,1901,1445,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/846.jpg 583,238,1101,970,1 1298,235,1927,1076,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/858.jpg 1298,403,1942,1079,1 533,244,1165,1088,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/9.jpg 874,941,1542,1567,0 1492,1288,2104,1909,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2285.jpg 565,349,1185,972,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3248.jpg 938,614,1538,1196,0 954,1416,1709,2003,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1686.jpg 418,1045,1229,1612,1 1416,938,2269,1700,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3025.jpg 678,1052,1347,1634,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2888.jpg 494,389,1216,909,0 558,1062,1283,1571,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3223.jpg 114,709,618,1529,1 1039,751,1541,1452,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/616.jpg 254,723,865,1253,0 1048,712,1730,1594,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/720.jpg 1483,656,2109,1226,0 604,650,1427,1444,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/292.jpg 968,120,1674,712,0 1107,994,1698,1606,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2268.jpg 912,203,1427,976,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/771.jpg 501,967,1101,1656,0 1309,523,1921,1367,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3373.jpg 834,463,1574,1225,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2866.jpg 565,958,1045,1763,0 1272,980,1787,1716,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1320.jpg 336,397,995,1097,0 968,235,1695,779,1 1068,1029,1809,1529,1 1812,744,2351,1538,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1084.jpg 704,879,1536,1659,1 665,41,1259,738,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1512.jpg 542,694,1333,1315,0 1401,765,2201,1238,0 1439,1373,2215,1838,0 659,1603,1421,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1485.jpg 883,356,1533,1103,0 1633,329,2168,976,0 992,1179,1433,1967,0 1459,1103,2098,1879,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3472.jpg 676,460,1267,1152,1 1529,289,2201,960,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1853.jpg 771,670,1545,1238,0 962,1226,1554,1797,0 1686,1053,2409,1576,0 727,135,1562,626,0 1715,165,2357,929,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3662.jpg 509,689,1032,1480,1 1209,1002,1872,1525,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/669.jpg 668,282,1177,920,0 707,1000,1559,1659,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1927.jpg 1595,417,2395,856,0 1648,920,2374,1373,0 1745,1515,2424,1882,0 712,970,1551,1394,0 748,1435,1551,1929,0 815,373,1565,788,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/206.jpg 898,394,1368,1135,0 107,485,701,1265,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/728.jpg 1657,644,2324,1270,0 580,688,1489,1294,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2048.jpg 369,412,1094,867,1 1087,994,1758,1607,0 1207,352,2098,812,0 376,1078,916,1769,0 1863,758,2421,1534,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1352.jpg 868,182,1298,809,0 1118,856,1795,1444,1 298,738,924,1409,1 662,1470,1545,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3151.jpg 123,556,647,1305,1 723,525,1301,1285,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1237.jpg 521,1006,1304,1423,0 1148,423,1898,1032,0 680,138,1274,838,1 1551,935,2233,1359,1 948,1482,1665,2020,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1942.jpg 1112,456,1495,1285,0 1598,497,2118,1285,0 1704,1538,2101,2048,0 1115,1406,1598,2048,0 621,1379,1051,2048,0 486,562,933,1276,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2693.jpg 505,398,1305,1223,1 1525,574,2007,1189,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2718.jpg 596,489,1365,1056,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/813.jpg 559,259,1165,1079,1 1377,459,2054,1112,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/160.jpg 562,853,1274,1226,0 336,1306,968,1909,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/574.jpg 965,385,1515,1191,0 742,1170,1533,1856,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1426.jpg 1315,703,1962,1150,0 721,1073,1521,1815,1 751,150,1424,750,1 104,353,624,1088,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3286.jpg 607,387,1332,925,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3583.jpg 989,767,1689,1247,1 967,1425,1581,2045,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1864.jpg 465,723,1004,1326,0 1030,570,1554,1335,0 1674,547,2118,1356,0 671,1482,1218,2048,0 1265,1362,2059,1782,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/613.jpg 712,685,1418,1617,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2256.jpg 261,1120,978,1740,0 881,985,1503,1658,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1254.jpg 1327,500,2057,1062,0 571,1006,1304,1615,0 804,41,1512,559,1 233,682,912,1112,1 1192,1250,1824,1900,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/218.jpg 1448,238,2033,829,0 1015,897,1792,1409,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3443.jpg 651,493,1469,1094,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1971.jpg 1292,1217,2092,1665,0 724,1112,1307,1729,0 1083,465,1721,1023,0 1898,535,2412,1247,0 362,444,865,1194,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1746.jpg 554,1254,1149,1849,0 1194,1223,1632,2034,0 325,645,967,1214,1 989,323,1738,809,1 1534,872,2192,1563,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/82.jpg 601,585,1142,1341,0 1409,438,1854,1197,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1468.jpg 1521,926,2136,1482,0 951,79,1451,862,0 936,1017,1612,1770,0 1645,91,2165,815,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/349.jpg 921,835,1627,1429,0 471,1438,1115,1923,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3522.jpg 49,736,734,1347,0 1018,743,1765,1352,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3000.jpg 843,512,1229,1240,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2250.jpg 709,778,1354,1358,0 1652,483,2143,1212,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3434.jpg 565,1127,1152,1834,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/529.jpg 871,509,1627,1173,0 821,1309,1621,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3726.jpg 816,532,1314,1334,0 1514,598,2038,1314,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3019.jpg 603,989,1196,1476,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/876.jpg 642,385,1368,1020,1 1433,353,2251,1065,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3517.jpg 858,1545,1505,2044,0 883,498,1509,1236,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/165.jpg 780,585,1415,1273,0 780,1491,1530,1894,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/340.jpg 1080,838,1715,1444,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2064.jpg 671,879,1242,1538,0 1454,1070,1904,1903,0 733,1685,1504,2048,0 474,197,1145,682,0 1339,532,2027,944,1 1171,53,1915,535,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1252.jpg 1154,415,1889,1032,0 433,985,1124,1541,0 633,144,1265,812,1 1545,938,2239,1350,1 951,1497,1671,2023,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2883.jpg 705,974,1194,1703,0 1332,1043,1889,1738,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3502.jpg 829,505,1387,1269,1 1549,629,2147,1405,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2678.jpg 714,1363,1467,1983,0 616,303,1423,1076,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1656.jpg 414,1216,1081,1714,0 1285,638,1958,1529,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2992.jpg 889,196,1503,789,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2222.jpg 909,843,1512,1445,0 756,367,1481,778,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1197.jpg 1227,915,2039,1379,0 1092,97,1689,797,1 427,529,983,1256,1 871,1423,1348,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2013.jpg 424,365,939,1041,0 1254,1238,2095,1667,0 1095,447,1748,1041,0 1859,547,2433,1294,0 612,1120,1186,1873,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2657.jpg 498,418,1274,1203,1 1316,652,2089,1043,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2760.jpg 883,172,1698,636,0 947,958,1709,1738,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1912.jpg 692,1456,1333,2048,0 1436,1582,2101,2048,0 1168,512,1598,1350,0 1645,523,2121,1356,0 621,606,1009,1409,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2520.jpg 343,645,947,1385,0 1074,605,1676,1409,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1792.jpg 161,1254,796,1929,1 336,525,907,1156,0 1007,1172,1516,1987,0 801,265,1534,1045,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1897.jpg 721,979,1559,1394,0 724,1447,1577,1894,0 1795,1259,2362,1891,0 1765,547,2464,1123,0 736,335,1583,806,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1008.jpg 1245,897,2015,1379,1 289,406,1109,1232,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2916.jpg 1175,699,1884,1161,0 1218,52,1893,627,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/962.jpg 957,70,1751,788,1 957,1067,1598,1812,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2492.jpg 856,1289,1618,1907,1 783,538,1532,1154,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3196.jpg 863,456,1387,1183,0 1574,625,2341,1165,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1407.jpg 1186,197,1657,973,0 462,720,1168,1538,1 1459,888,2157,1476,1 1168,1641,1915,2044,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/168.jpg 718,15,1495,491,0 698,726,1477,1344,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3098.jpg 767,1556,1476,2040,1 734,880,1503,1374,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3395.jpg 1114,343,1881,1132,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/987.jpg 1018,1065,1530,1741,1 930,94,1757,815,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2054.jpg 387,412,1092,852,1 1225,374,2107,800,0 372,1083,925,1765,0 1092,963,1747,1603,0 1843,760,2414,1532,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3372.jpg 1043,683,1814,1418,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2921.jpg 1025,208,1463,1024,0 1631,377,2211,1031,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/966.jpg 580,482,1351,959,1 1436,515,2174,1312,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1527.jpg 548,694,1333,1309,0 1401,782,2192,1241,0 1445,1373,2212,1847,0 595,1435,1342,2003,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1744.jpg 1461,898,2163,1492,1 1001,229,1725,767,1 956,1072,1374,1892,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1540.jpg 921,320,1504,1112,0 992,1173,1442,1976,0 1586,1253,2048,2003,0 1621,612,2389,1023,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2865.jpg 689,974,1187,1698,0 1394,936,1898,1778,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2240.jpg 992,912,1558,1536,0 654,165,1492,734,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2332.jpg 1003,1336,1747,1892,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3293.jpg 889,498,1643,1229,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1492.jpg 577,679,1309,1329,0 1412,782,2180,1217,0 1509,1423,2148,2026,0 621,1444,1271,2048,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3573.jpg 876,847,1414,1523,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1510.jpg 904,350,1551,1117,0 989,1173,1439,1962,0 1571,1250,2051,1997,0 1795,473,2312,1232,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2849.jpg 814,307,1314,1134,0 1685,523,2163,1358,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2203.jpg 494,523,1154,1274,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3369.jpg 1069,1209,1676,1932,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2451.jpg 665,585,1289,1338,1 1434,465,2029,1207,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3713.jpg 621,645,1267,1500,0 1472,707,2036,1460,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3354.jpg 981,1127,1707,1692,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/835.jpg 536,947,1180,1800,1 1265,1135,2021,1647,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1654.jpg 347,805,1076,1432,0 1269,632,1941,1545,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3231.jpg 365,618,861,1369,1 1052,709,1654,1307,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1285.jpg 459,465,995,1217,0 962,197,1695,706,1 1036,1023,1786,1512,1 1818,750,2348,1541,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3324.jpg 1081,816,1703,1447,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3631.jpg 663,1089,1438,1594,0 732,296,1569,816,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3762.jpg 1003,920,1832,1663,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2191.jpg 1104,1112,1901,1741,0 568,920,1145,1517,0 65,715,451,1523,0 1236,244,2059,959,1 271,112,1145,697,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3107.jpg 1049,434,1587,1216,0 1758,558,2354,1278,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2346.jpg 885,380,1563,1080,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1386.jpg 1357,794,2121,1329,0 892,423,1342,1188,1 98,720,792,1553,1 695,1535,1459,1976,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/2950.jpg 987,972,1492,1676,0 1872,956,2352,1729,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3722.jpg 443,594,947,1332,1 1218,507,1727,1309,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/303.jpg 707,1,1465,526,0 545,844,1221,1435,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/3576.jpg 449,845,1012,1474,0 1041,676,1732,1200,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1038.jpg 1245,956,2048,1423,1 286,432,1115,1209,1
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/430.jpg 789,715,1283,1388,0 745,1465,1254,2048,0
+/home/gxq/pyCode/SwinYoloX/data/Cocoons/canjian/JPEGImages/1056.jpg 1133,344,1909,1129,1 345,770,1080,1323,1
